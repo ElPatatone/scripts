@@ -1,1 +1,1 @@
-collection of useful scripts to help developement smoother
+collection of useful scripts to enable smoother developement
